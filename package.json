@@ -21,6 +21,7 @@
   "homepage": "https://github.com/All-Khwarizmi/name-cli#readme",
   "dependencies": {
     "@swarecito/swre": "^1.0.0",
+    "chalk": "^4.1.2",
     "cli-welcome": "^2.2.2"
   },
   "keywords": [

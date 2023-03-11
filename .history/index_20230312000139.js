@@ -7,17 +7,17 @@ welcome({
   tagLine: 'Get to know Jason',
   description: pkgJSON.description,
   version: pkgJSON.version,
-  bgColor: `#6e5494`,
+  bgColor: `#6937FF`,
   color: `#000000`,
   bold: true,
   clear: true,
 });
 const log = console.log;
 log(`
-${chalk.hex(`#6e5494`).bold.inverse(' Jason Suárez ')}
+${chalk.hex(`#6937FF`).bold.inverse(' Jason Suárez ')}
 
 ${chalk.italic(
-  "I'm a spanish teacher | Full-stack JavaScript developer | Entrepreneur. \nI create applications to make my student's learning journey smoother."
+  "Spanish teacher | Full-stack JavaScript developer | Entrepreneur \nI create applications to make my student's learning journey smoother."
 )}
 
 ${chalk.hex(`#fc5e03`).bold.inverse(` Portfolio: `)} ${chalk.dim(

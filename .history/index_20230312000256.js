@@ -17,7 +17,7 @@ log(`
 ${chalk.hex(`#6e5494`).bold.inverse(' Jason Suárez ')}
 
 ${chalk.italic(
-  "I'm a spanish teacher | Full-stack JavaScript developer | Entrepreneur. \nI create applications to make my student's learning journey smoother."
+  "I'm a spanish teacher | Full-stack JavaScript developer | Entrepreneur \nI create applications to make my student's learning journey smoother."
 )}
 
 ${chalk.hex(`#fc5e03`).bold.inverse(` Portfolio: `)} ${chalk.dim(
