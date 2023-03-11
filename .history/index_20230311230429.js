@@ -3,16 +3,15 @@
 const pkgJSON = require("./package.json")
 const welcome = require("cli-welcome")
 welcome({
-  title: pkgJSON.name,
-  tagLine: 'Get to know Jason',
-  description: pkgJSON.description,
-  version: pkgJSON.version,
-  bgColor: `#FADC00`,
-  color: `#000000`,
-  bold: true,
-  clear: true,
-});
+    title: "Get to k"
+})
 
+console.log(`
+NAME : ${pkgJSON.name}
+VERSION : ${pkgJSON.version}
+DESCRIPTION : ${pkgJSON.description}
+
+`)
 console.log(`
 Jason Suárez
 
