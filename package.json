@@ -1,6 +1,6 @@
 {
   "name": "@swarecito/swre",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Get to know Jason via npm. Just run `npx @swarecito/swre`",
   "main": "index.js",
   "bin": {
