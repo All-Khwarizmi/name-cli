@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/All-Khwarizmi/name-cli.git"
   },
-  
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -23,10 +23,6 @@
   "dependencies": {
     "@swarecito/swre": "^1.0.0",
     "cli-welcome": "^2.2.2"
-  },
-  "keywords": [
-    "jason",
-    "swarecito",
-    "cli"
-  ]
+  }
+  
 }
