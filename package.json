@@ -1,0 +1,23 @@
+{
+  "name": "swr",
+  "version": "1.0.0",
+  "description": "Get to know Jason via npm. Just run `npx swarecito`",
+  "main": "index.js",
+  "bin": {
+    "swr": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/All-Khwarizmi/name-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/All-Khwarizmi/name-cli/issues"
+  },
+  "homepage": "https://github.com/All-Khwarizmi/name-cli#readme"
+}
