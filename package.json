@@ -22,11 +22,17 @@
   "dependencies": {
     "@swarecito/swre": "^1.0.0",
     "chalk": "^4.1.2",
-    "cli-welcome": "^2.2.2"
+    "cli-alerts": "^1.2.2",
+    "cli-welcome": "^2.2.2",
+    "log-symbols": "^4.1.0",
+    "meow": "^9.0.0"
   },
   "keywords": [
     "jason",
     "swarecito",
     "cli"
-  ]
+  ],
+  "devDependencies": {
+    "@swarecito/recall-cli": "^1.0.0"
+  }
 }
